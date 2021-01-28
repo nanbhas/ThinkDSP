@@ -1,8 +1,11 @@
 # ThinkDSP
 
 Main URL: https://greenteapress.com/wp/think-dsp/
+
 Book PDF: https://greenteapress.com/thinkdsp/thinkdsp.pdf
+
 HTML version: https://greenteapress.com/thinkdsp/html/index.html
+
 
 LaTeX source and Python code for _Think DSP: Digital Signal Processing in Python_, by Allen B. Downey.
 
